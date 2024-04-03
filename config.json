@@ -2,7 +2,7 @@
     "title":"数字支点",
     "subTitle":"体验数字生活",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
     "displayTitle":"数字支点",
     "homeUrl":"http://blog.meekdai.com",
     "faviconUrl":"https://github.githubassets.com/favicons/favicon.svg",
@@ -23,5 +23,5 @@
     "style":"<style>#postBody{font-size:16px}</style>",
     "script":"<script async src='//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js'></script>",
     "showPostSource":"1",
-    "rssSplit":"sentence",
+    "rssSplit":"sentence"
 }
