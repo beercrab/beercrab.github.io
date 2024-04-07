@@ -5,4 +5,6 @@
 - 版本：
   - 当前版本：[12.1.0.16417](https://official-package.wpscdn.cn/wps/download/WPS_Setup_16417.exe)
   - 旧版本：[11.1.0.15319](https://official-package.wpscdn.cn/wps/download/WPS_Setup_15319.exe)
+ - 截图：
+ 
 
