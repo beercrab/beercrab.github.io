@@ -1,4 +1,4 @@
 - 开发：[微软](https://www.microsoft.com/zh-cn/)
 - 评价：⭐⭐⭐⭐
-- 说明：一个基于微软 Office 部署工具的小工具，可以方便下载安装微软 Office 中的任意组件(visio、word、excel、ppt)
+- 说明：微软windows系统内置的默认浏览器，基于chromium开发，优势就是深度集成windows系统，可以使用微软账户，浏览数据可跨平台。
 - 下载：[官网下载](https://www.microsoft.com/zh-cn/edge/download)
