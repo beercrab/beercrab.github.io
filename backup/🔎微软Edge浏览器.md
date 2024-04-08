@@ -1,4 +1,5 @@
 - 开发：[微软](https://www.microsoft.com/zh-cn/)
 - 评价：⭐⭐⭐⭐
 - 说明：微软windows系统内置的默认浏览器，基于chromium开发，优势就是深度集成windows系统，可以使用微软账户，浏览数据可跨平台。
+- 官网：[官方网站](https://www.microsoft.com/zh-cn/edge?form=MA13FJ)
 - 下载：[官网下载](https://www.microsoft.com/zh-cn/edge/download)
