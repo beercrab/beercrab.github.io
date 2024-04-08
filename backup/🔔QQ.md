@@ -1,0 +1,5 @@
+- 开发：[腾讯](https://www.tencent.com/zh-cn/index.html)
+- 评价：⭐⭐⭐⭐⭐
+- 说明：国民级即时通讯软件，比微信电脑端功能强大的多，适合办公和互联网通讯，学生党和专业人士用的比较多
+- 官网：[官方网站](https://im.qq.com/index/)
+- 下载：[官方下载](https://im.qq.com/pcqq/index.shtml)
