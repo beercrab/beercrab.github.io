@@ -1,7 +1,8 @@
-开发：[Mozilla 基金会](https://foundation.mozilla.org/en/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=footer)
-评价：⭐⭐⭐⭐⭐
-说明：唯一不是基于 Chromium 开发的开源浏览器，曾风靡一时，但貌似最近褒贬不一，如果你是IT专业人士，或者对于网络隐私有特殊需求，那这个浏览器是你的最佳选择之一
-下载： 含所有版本👇
+- 开发：[Mozilla 基金会](https://foundation.mozilla.org/en/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=footer)
+- 评价：⭐⭐⭐⭐⭐
+- 说明：唯一不是基于 Chromium 开发的开源浏览器，曾风靡一时，但貌似最近褒贬不一，如果你是IT专业人士，或者对于网络隐私有特殊需求，那这个浏览器是你的最佳选择之一
+- 官网：[官方网站](https://www.mozilla.org/zh-CN/firefox/all/#product-desktop-release)
+- 下载：含所有版本👇
 
 | 安装方式 | 版本 |位数|安装包格式|下载|
 |:--------:| :---------:|:--------:|:--------:|:--------:|
