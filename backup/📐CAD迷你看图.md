@@ -1,0 +1,5 @@
+- 开发：[上海晓材科技有限公司](https://olcad.com/contact.html)
+- 评价：⭐⭐⭐⭐⭐
+- 说明：轻量免费的国产CAD看图软件，适合快速看图，支持多种主流格式转换
+- 官网：[官方网站](https://olcad.com/mini_view.html)
+- 下载：[官方下载](https://down.appol.com/softwares/MiniCADSee_X64.exe)
