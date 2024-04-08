@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>精选Windows应用软件</title><link>https://beercrab.github.io</link><description>精选windows软件下载列表</description><copyright>精选Windows应用软件</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/beercrab/beercrab.github.io/main/windows.svg</url><title>avatar</title><link>https://beercrab.github.io</link></image><lastBuildDate>Mon, 08 Apr 2024 06:24:58 +0000</lastBuildDate><managingEditor>精选Windows应用软件</managingEditor><ttl>60</ttl><webMaster>精选Windows应用软件</webMaster><item><title>🗜360压缩</title><link>https://beercrab.github.io/post/%F0%9F%97%9C360-ya-suo.html</link><description>- 开发：[360安全中心](https://www.360.cn/)&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>精选Windows应用软件</title><link>https://beercrab.github.io</link><description>精选windows软件下载列表</description><copyright>精选Windows应用软件</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/beercrab/beercrab.github.io/main/windows.svg</url><title>avatar</title><link>https://beercrab.github.io</link></image><lastBuildDate>Mon, 08 Apr 2024 06:26:38 +0000</lastBuildDate><managingEditor>精选Windows应用软件</managingEditor><ttl>60</ttl><webMaster>精选Windows应用软件</webMaster><item><title>🗜360压缩</title><link>https://beercrab.github.io/post/%F0%9F%97%9C360-ya-suo.html</link><description>- 开发：[360安全中心](https://www.360.cn/)&#13;
 - 评价：⭐⭐⭐⭐⭐&#13;
 - 说明：国产最好用的文件压缩软件，体积轻巧，支持多种文件压缩及解压缩格式&#13;
 - 官网：[官方网站](https://yasuo.360.cn/)&#13;
@@ -15,10 +15,11 @@
 | 离线 | 标准版 |64位|EXE|[官网下载](https://download-installer.cdn.mozilla.net/pub/firefox/releases/124.0.2/win64/zh-CN/Firefox%20Setup%20124.0.2.exe)|&#13;
 | 离线 | 标准版 |32位|EXE|[官网下载](https://cdn.stubdownloader.services.mozilla.com/builds/firefox-latest-ssl/zh-CN/win/a53fbf3a66b8bdadd10791bcddd8053bdb0a622aafd38b7e7b0a0e311ef055d6/Firefox%20Setup%20124.0.2.exe)|&#13;
 | 离线 | 标准版 |64位|MSI|[官网下载](https://download-installer.cdn.mozilla.net/pub/firefox/releases/124.0.2/win64/zh-CN/Firefox%20Setup%20124.0.2.msi)|&#13;
-| 离线 | 标准版 |32位|MSI|[官网下载](https://download.mozilla.org/?product=firefox-msi-latest-ssl&amp;os=win&amp;lang=zh-CN&amp;_gl=1*mosbe1*_ga*MTEwOTI2NTI3OS4xNzEyNTU0ODEw*_ga_MQ7767QQQW*MTcxMjU1NDgyMi4xLjEuMTcxMjU1NTg4OS4wLjAuMA..)|。</description><guid isPermaLink="true">https://beercrab.github.io/post/%F0%9F%94%8E-huo-hu-Firefox-liu-lan-qi.html</guid><pubDate>Mon, 08 Apr 2024 06:00:06 +0000</pubDate></item><item><title>🔎谷歌Chrome浏览器</title><link>https://beercrab.github.io/post/%F0%9F%94%8E-gu-ge-Chrome-liu-lan-qi.html</link><description>开发：[Googel(谷歌)](https://www.google.com/)&#13;
-评价：⭐⭐⭐⭐⭐&#13;
-说明：完美继承 Chromium 的特性，并在此基础上增设了更多功能，世界最具影响力的浏览器之一&#13;
-下载： 含所有版本👇&#13;
+| 离线 | 标准版 |32位|MSI|[官网下载](https://download.mozilla.org/?product=firefox-msi-latest-ssl&amp;os=win&amp;lang=zh-CN&amp;_gl=1*mosbe1*_ga*MTEwOTI2NTI3OS4xNzEyNTU0ODEw*_ga_MQ7767QQQW*MTcxMjU1NDgyMi4xLjEuMTcxMjU1NTg4OS4wLjAuMA..)|。</description><guid isPermaLink="true">https://beercrab.github.io/post/%F0%9F%94%8E-huo-hu-Firefox-liu-lan-qi.html</guid><pubDate>Mon, 08 Apr 2024 06:00:06 +0000</pubDate></item><item><title>🔎谷歌Chrome浏览器</title><link>https://beercrab.github.io/post/%F0%9F%94%8E-gu-ge-Chrome-liu-lan-qi.html</link><description>- 开发：[Googel(谷歌)](https://www.google.com/)&#13;
+- 评价：⭐⭐⭐⭐⭐&#13;
+- 说明：完美继承 Chromium 的特性，并在此基础上增设了更多功能，世界最具影响力的浏览器之一&#13;
+- 官网：[官方网站](https://www.google.cn/chrome/index.html)&#13;
+- 下载：含所有版本👇&#13;
 &#13;
 | 安装方式 | 版本 |更新组件 |位数|安装包格式|下载|&#13;
 |:--------:| :---------:|:--------:|:--------:|:--------:|:--------:|&#13;
