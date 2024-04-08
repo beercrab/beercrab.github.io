@@ -1,0 +1,5 @@
+- 开发：[上海晓材科技有限公司](https://olcad.com/contact.html)
+- 评价：⭐⭐⭐⭐⭐
+- 说明：轻量免费的国产CAD画图软件，适合快速画图，软件体积小巧，支持多种主流格式转换，适合个人和小型团队使用
+- 官网：[官方网站](https://olcad.com/mini_draw.html)
+- 下载：[官方下载](https://down.appol.com/softwares/MiniCADDraw_X64.exe)
