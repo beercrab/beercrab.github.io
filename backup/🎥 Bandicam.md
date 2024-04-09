@@ -1,0 +1,5 @@
+- 开发：[Bandicam Company](https://www.bandicam.cn/company/)
+- 评价：⭐⭐⭐⭐⭐
+- 说明：一款高清视频录制软件，可录制高质量的游戏、屏幕和音频，支持多种视频格式和编码方式，具有低系统资源占用和易于使用的特点。免费版只能录制10分钟以内的视频
+- 官网：[官方网站](https://www.bandicam.cn/) 
+- 下载：[官网下载](https://dl.bandicam.cn/bdcamsetup.exe)
