@@ -1,0 +1,5 @@
+- 开发：[VideoLAN](https://www.videolan.org/videolan/)
+- 评价：⭐⭐⭐⭐⭐
+- 说明：VLC Player是一款自由、开源的跨平台多媒体播放器，支持众多音视频格式和流媒体协议，功能强大且性能出色，无广告、无间谍软件，无跟踪用户行为，用户体验优秀。
+- 官网：[官方网站](https://www.videolan.org/vlc/) 
+- 下载：官网下载 [64位](https://iso.mirrors.ustc.edu.cn/videolan-ftp/vlc/3.0.20/win64/vlc-3.0.20-win64.exe) | [32位](https://iso.mirrors.ustc.edu.cn/videolan-ftp/vlc/3.0.20/win32/vlc-3.0.20-win32.exe)
