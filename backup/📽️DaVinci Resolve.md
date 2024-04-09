@@ -1,0 +1,5 @@
+- 开发：[BlackmagicDesign](http://www.blackmagicdesign.com/)
+- 评价：⭐⭐⭐⭐⭐
+- 说明：一款功能全面免费的专业级视频编辑软件，集剪辑、调色、特效和音频处理于一体，提供高质量的色彩修正和分级效果，以及多种输出格式，适合影视后期制作。
+- 官网：[官方网站](http://www.blackmagicdesign.com/cn/products/davinciresolve) 
+- 下载：[官网下载](https://swr.cloud.blackmagicdesign.com/DaVinciResolve/v18.6.6/DaVinci_Resolve_18.6.6_Windows.zip?verify=1712649877-KStmQJdfPyOdpY7hGL%2BGEMKdH69axqSmC3%2BwbQLfx2c%3D) 
