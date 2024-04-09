@@ -1,5 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>精选Windows应用软件</title><link>https://beercrab.github.io</link><description>精选windows软件下载列表</description><copyright>精选Windows应用软件</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/beercrab/beercrab.github.io/main/windows.svg</url><title>avatar</title><link>https://beercrab.github.io</link></image><lastBuildDate>Tue, 09 Apr 2024 05:58:29 +0000</lastBuildDate><managingEditor>精选Windows应用软件</managingEditor><ttl>60</ttl><webMaster>精选Windows应用软件</webMaster><item><title>📻AIMP</title><link>https://beercrab.github.io/post/%F0%9F%93%BBAIMP.html</link><description>- 开发：[AIMP开发团队](https://www.aimp.ru/)&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>精选Windows应用软件</title><link>https://beercrab.github.io</link><description>精选windows软件下载列表</description><copyright>精选Windows应用软件</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/beercrab/beercrab.github.io/main/windows.svg</url><title>avatar</title><link>https://beercrab.github.io</link></image><lastBuildDate>Tue, 09 Apr 2024 06:16:39 +0000</lastBuildDate><managingEditor>精选Windows应用软件</managingEditor><ttl>60</ttl><webMaster>精选Windows应用软件</webMaster><item><title>📻Everything</title><link>https://beercrab.github.io/post/%F0%9F%93%BBEverything.html</link><description>- 开发：[voidtools](https://www.voidtools.com/zh-cn/)&#13;
+- 评价：⭐⭐⭐⭐⭐&#13;
+- 说明：一款高效、轻量级的文件搜索工具，能实时索引和快速定位电脑中的文件，让文件查找变得简单快捷，还可以提供文件传输功能&#13;
+- 官网：[官方网站](https://www.voidtools.com/zh-cn/) &#13;
+- 下载：含多个版本👇&#13;
+&#13;
+ |位数|版本|下载|&#13;
+ | :---------:|:--------:|:--------:|&#13;
+ | 64位|安装版|[官网下载](https://www.voidtools.com/Everything-1.4.1.1024.x64-Setup.exe)|&#13;
+ | 32位|安装版|[官网下载](https://www.voidtools.com/Everything-1.4.1.1024.x86-Setup.exe)|&#13;
+ | 64位|便携版|[官网下载](https://www.voidtools.com/Everything-1.4.1.1024.x64.zip)|&#13;
+ | 32位|便携版|[官网下载](https://www.voidtools.com/Everything-1.4.1.1024.x86.zip)|&#13;
+ | 64位|精简版|[官网下载](https://www.voidtools.com/Everything-1.4.1.1024.x64.Lite-Setup.exe)|&#13;
+ | 32位|精简版|[官网下载](https://www.voidtools.com/Everything-1.4.1.1024.x86.Lite-Setup.exe)|。</description><guid isPermaLink="true">https://beercrab.github.io/post/%F0%9F%93%BBEverything.html</guid><pubDate>Tue, 09 Apr 2024 06:16:05 +0000</pubDate></item><item><title>📻AIMP</title><link>https://beercrab.github.io/post/%F0%9F%93%BBAIMP.html</link><description>- 开发：[AIMP开发团队](https://www.aimp.ru/)&#13;
 - 评价：⭐⭐⭐⭐⭐&#13;
 - 说明：一款来自俄罗斯的免费专业级音频播放器，支持多种音频格式，具有出色的音质和丰富的功能，包括播放、转换、标签编辑、录制广播等，操作简便，界面友好。</description><guid isPermaLink="true">https://beercrab.github.io/post/%F0%9F%93%BBAIMP.html</guid><pubDate>Tue, 09 Apr 2024 05:58:00 +0000</pubDate></item><item><title>📻Foobar2000</title><link>https://beercrab.github.io/post/%F0%9F%93%BBFoobar2000.html</link><description>- 开发：[Peter Pawlowski](https://perkele.cc/software)&#13;
 - 评价：⭐⭐⭐⭐⭐&#13;
