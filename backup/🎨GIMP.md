@@ -1,0 +1,5 @@
+- 开发：[GIMP开发者团队](https://olcad.com/contact.html)
+- 评价：⭐⭐⭐⭐⭐
+- 说明：一款开源免费的开源图像编辑器,功能强大，是Adode photoshop最佳替代解决方案之一
+- 官网：[官方网站](https://www.gimp.org/)
+- 下载：[官方下载](https://download.gimp.org/gimp/v2.10/windows/gimp-2.10.36-setup-1.exe)
