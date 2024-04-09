@@ -1,0 +1,5 @@
+- 开发：[NVIDIA](https://www.nvidia.cn/geforce/broadcasting/broadcast-app/)
+- 评价：⭐⭐⭐⭐⭐
+- 说明：一款利用AI技术的实时音视频优化软件，可提升直播和会议质量，具备噪音消除、虚拟背景、人像跟踪等功能，适用于游戏直播、远程会议等多种场景。
+- 官网：[官方网站](https://www.nvidia.cn/geforce/broadcasting/broadcast-app/) 
+- 下载：官网下载 [在线安装版](https://international.download.nvidia.com/Windows/broadcast/1.4.0.29/NVIDIA_Broadcast_v1.4.0.29.exe) | [RTX 20 系列完整版](https://international.download.nvidia.com/Windows/broadcast/1.4.0.29/NVIDIA_Broadcast_Offline_Turing_v1.4.0.29.exe) | [RTX 30 系列完整版](https://international.download.nvidia.com/Windows/broadcast/1.4.0.29/NVIDIA_Broadcast_Offline_Ampere_v1.4.0.29.exe) | [RTX 40 系列完整版](https://international.download.nvidia.com/Windows/broadcast/1.4.0.29/NVIDIA_Broadcast_Offline_Ada_v1.4.0.29.exe)
