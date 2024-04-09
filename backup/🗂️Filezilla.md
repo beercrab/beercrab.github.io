@@ -1,0 +1,5 @@
+- 开发：[Tim Kosse](https://filezilla-project.org/contact.php)
+- 评价：⭐⭐⭐⭐⭐
+- 说明：坚果云是一款安全高效的网盘产品，提供文件自动同步、共享与备份功能，助力用户实现智能文件管理，提升办公效率，关键还支持Markdown内容文件的在线显示。
+- 官网：[官方网站](https://filezilla-project.org)
+- 下载：官网下载 [Filezilla客户端](https://download.filezilla-project.org/client/FileZilla_3.66.5_win64_sponsored-setup.exe) | [Filezilla服务端](https://dl3.cdn.filezilla-project.org/server/FileZilla_Server_1.8.1_win64-setup.exe?h=OkDXdTl5n4nq62o8C45Kjw&x=1712633695)
