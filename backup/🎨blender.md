@@ -1,0 +1,5 @@
+- 开发：[Blender基金会](https://www.blender.org/about/foundation/)
+- 评价：⭐⭐⭐⭐⭐
+- 说明：Blender是一款免费开源的3D图形软件，集建模、动画、渲染、视频编辑等功能于一体，适用于电影、动画、游戏等多个领域，高度可定制，并拥有活跃的社区支持。
+- 官网：[官方网站](https://www.blender.org/) 
+- 下载：官网下载 [标准版](https://www.blender.org/download/release/Blender4.1/blender-4.1.0-windows-x64.msi/) | [便携版](https://www.blender.org/download/release/Blender4.1/blender-4.1.0-windows-x64.zip/)
