@@ -1,0 +1,5 @@
+- 开发：[Lain和其他代码贡献者](https://github.com/obsproject/OBS-studio/graphs/contributors)
+- 评价：⭐⭐⭐⭐⭐
+- 说明：款功能强大的实时流媒体和屏幕录制软件，支持多源场景创建与无缝切换，具备高性能视频/音频捕获和混合能力，操作简单，适合直播和录制需求。
+- 官网：[官方网站](https://obsproject.com/zh-cn) 
+- 下载：官网下载 [标准版](https://cdn-fastly.obsproject.com/downloads/OBS-Studio-30.1.2-Full-Installer-x64.exe) | [便携版](https://cdn-fastly.obsproject.com/downloads/OBS-Studio-30.1.2.zip)
