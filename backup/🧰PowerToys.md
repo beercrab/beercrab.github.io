@@ -1,0 +1,5 @@
+- 开发：[微软](https://learn.microsoft.com/zh-cn/windows/powertoys/install#installing-with-windows-executable-file-via-github)
+- 评价：⭐⭐⭐⭐⭐
+- 说明：PowerToys是微软出品的一款系统增强工具集，提供快速启动、窗口管理、剪贴板增强等多项功能，旨在帮助用户简化和优化Windows操作，提升工作效率，功能非常强大。适用于电脑高级用户。
+- 官网：[官方网站](https://github.com/microsoft/PowerToys/releases/tag/v0.80.0) 
+- 下载：官网下载 [用户安装](https://github.com/microsoft/PowerToys/releases/download/v0.80.0/PowerToysUserSetup-0.80.0-x64.exe) | [计算机安装](https://github.com/microsoft/PowerToys/releases/download/v0.80.0/PowerToysSetup-0.80.0-x64.exe)
