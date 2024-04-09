@@ -1,0 +1,5 @@
+- 开发：[Peter Pawlowski](https://perkele.cc/software)
+- 评价：⭐⭐⭐⭐⭐
+- 说明：一款免费的高级音频播放器，具有开放的组件体系结构、支持丰富的音频格式、播放增益功能，同时软件小巧、界面简洁，自定义性强。
+- 官网：[官方网站](https://www.foobar2000.org/) 
+- 下载：官网下载 [64位](https://www.foobar2000.org/getfile/foobar2000-x64_v2.1.3.exe) | [32位](https://www.foobar2000.org/getfile/foobar2000_v2.1.3.exe)
