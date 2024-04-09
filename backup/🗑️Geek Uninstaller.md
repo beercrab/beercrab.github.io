@@ -1,0 +1,5 @@
+- 开发：[Thomas Koen](https://geekuninstaller.com/about)
+- 评价：⭐⭐⭐⭐⭐
+- 说明：一款轻量免费(含付费计划)功能强大的卸载工具，甚至可以卸载微软应用商店软件，卸载完成后会自动清理注册表残留项
+- 官网：[官方网站](https://geekuninstaller.com/download?version=1.5.2.165)
+- 下载：官方下载 [ZIP格式](https://geekuninstaller.com/geek.zip) | [7Z格式](https://geekuninstaller.com/geek.7z)
