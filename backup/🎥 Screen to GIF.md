@@ -1,0 +1,5 @@
+- 开发：[NickeManarin](https://github.com/NickeManarin)
+- 评价：⭐⭐⭐⭐⭐
+- 说明：一款免费开源的GIF动画录制与编辑工具，它可以轻松地将屏幕上的任何区域或操作过程录制成GIF格式，并提供丰富的编辑功能来优化GIF动画
+- 官网：[官方网站](https://www.screentogif.com/) 
+- 下载：[官网下载](https://dl.bandicam.cn/bdcamsetup.exe) 
