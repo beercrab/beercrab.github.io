@@ -1,0 +1,5 @@
+- 开发：[XMind公司](https://xmind.cn/about/)
+- 评价：⭐⭐⭐⭐⭐
+- 说明：一款功能强大的思维导图软件，它能够帮助用户更好地组织和表达思维，实现信息的结构化、可视化，提高工作和学习效率。
+- 官网：[官方网站](https://xmind.cn/download/#windows) 
+- 下载：[官网下载](https://www.xmind.cn/zen/download/win64/) | [XMind 8经典版](https://xmind.cn/download/xmind8/)
