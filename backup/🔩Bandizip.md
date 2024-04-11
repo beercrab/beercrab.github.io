@@ -1,0 +1,5 @@
+- 开发：[Bandisoft](https://www.bandisoft.com/)
+- 评价：⭐⭐⭐⭐⭐
+- 说明：一款功能全面、操作简便的压缩解压软件，支持多种压缩格式，具有高效的压缩解压速度和强大的文件管理能力，是专业用户处理压缩文件的理想选择
+- 官网：[官方网站](https://www.bandisoft.com/bandizip/) 
+- 下载：官网下载 [64位安装版](https://www.bandisoft.com/bandizip/dl.php?web) | [32位安装版](https://www.bandisoft.com/bandizip/dl.php?std-all) | [便携版](https://www.bandisoft.com/bandizip/dl.php?portable)
