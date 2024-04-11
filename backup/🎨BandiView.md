@@ -1,0 +1,5 @@
+- 开发：[Bandisoft](https://www.bandisoft.com/)
+- 评价：⭐⭐⭐⭐⭐
+- 说明：一款功能强大的图像查看器，支持多种图像格式，具有快速查看、HDR支持和Webtoon视图模式等特点，为用户提供出色的图像浏览体验。
+- 官网：[官方网站](https://www.bandisoft.com/bandiview/) 
+- 下载：[官网下载](https://dl.bandisoft.com/bandiview/BANDIVIEW-SETUP-X64.EXE?70) 
