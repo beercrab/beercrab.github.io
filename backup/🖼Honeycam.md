@@ -1,5 +1,0 @@
-- 开发：[Bandisoft](https://www.bandisoft.com/)
-- 评价：⭐⭐⭐⭐⭐
-- 说明：一款功能强大的GIF/WebP动图制作和编辑工具，操作简便，支持录制、编辑和管理动画文件，为用户提供了丰富的创作自由
-- 官网：[官方网站](https://www.bandisoft.com/bandizip/) 
-- 下载：[官网下载](https://www.bandisoft.com/honeycam/dl.php?all) 
