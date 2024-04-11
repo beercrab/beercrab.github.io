@@ -1,4 +1,4 @@
-- 开发：[Jaex and Michael Delpach]https://github.com/ShareX/ShareX)
+- 开发：[Jaex and Michael Delpach](https://github.com/ShareX/ShareX)
 - 评价：⭐⭐⭐⭐⭐
 - 说明：ShareX是一款功能丰富的免费开源屏幕截图、录制和文件共享工具，支持多种截图模式、及灵活的上传分享，满足用户各类截图需求。
 - 官网：[官方网站](https://getsharex.com/) 
