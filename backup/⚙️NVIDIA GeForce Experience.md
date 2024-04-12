@@ -1,0 +1,5 @@
+- 开发：[NVIDIA英伟达](https://www.nvidia.cn/)
+- 评价：⭐⭐⭐⭐⭐
+- 说明：是NVIDIA英伟达推出的一款专为游戏玩家设计的软件，能自动更新显卡驱动、优化游戏设置，并提供录制、直播和分享游戏时刻的功能。
+- 官网：[官方网站](https://www.nvidia.cn/geforce/geforce-experience/) 
+- 下载：[官网下载](https://cn.download.nvidia.com/GFE/GFEClient/3.27.0.120/GeForce_Experience_v3.27.0.120.exe) 
