@@ -1,0 +1,5 @@
+- 开发：[AMD ](https://www.amd.com/zh-cn.html)
+- 评价：⭐⭐⭐⭐⭐
+- 说明：一款专为AMD显卡和硬件设计的优化软件，能够提升系统性能，确保流畅稳定的图形处理，为用户带来卓越的使用体验。
+- 官网：[官方网站](https://www.amd.com/zh-hans/support) 
+- 下载：[官网下载](https://drivers.amd.com/drivers/installer/23.40/whql/amd-software-adrenalin-edition-24.3.1-minimalsetup-240320_web.exe) 
