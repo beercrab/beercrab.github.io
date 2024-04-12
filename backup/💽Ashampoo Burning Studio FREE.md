@@ -1,0 +1,5 @@
+- 开发：[ashampoo](https://www.ashampoo.com/zh-cn)
+- 评价：⭐⭐⭐⭐⭐
+- 说明：一款功能强大且易于使用的免费光盘刻录软件，支持刻录多种类型的光盘，包括音乐CD、数据光盘、影片光盘等，并提供一系列多媒体制作和备份功能
+- 官网：[官方网站](https://www.ashampoo.com/zh-cn/burning-studio-free) 
+- 下载：[官网下载](https://www.ashampoo.com/zh-cn/dld/7110/burning-studio-free) 
