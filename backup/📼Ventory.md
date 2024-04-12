@@ -1,0 +1,5 @@
+- 开发：[Ventory](https://forums.ventoy.net/)
+- 评价：⭐⭐⭐⭐⭐
+- 说明：Ventory是一个开源工具，它允许用户无需格式化或重新分区USB驱动器，即可轻松创建一个支持多ISO文件启动的USB启动盘。
+- 官网：[官方网站](https://www.ventoy.net/cn/) 
+- 下载：官网下载 [zip格式包](https://github.com/ventoy/Ventoy/releases) | [iso格式包](https://github.com/ventoy/Ventoy/releases)
