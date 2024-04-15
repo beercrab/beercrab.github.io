@@ -1,0 +1,5 @@
+- 开发：[Mark Russinovich](https://learn.microsoft.com/zh-cn/archive/blogs/markrussinovich/)
+- 评价：⭐⭐⭐⭐⭐
+- 说明：用于在Windows系统上展示和监控所有TCP和UDP终结点的详细列表，包括地址和连接状态，帮助用户更好地管理和了解网络连接情况。
+- 官网：[官方网站](https://learn.microsoft.com/en-us/sysinternals/)
+- 下载：[官网下载](https://download.sysinternals.com/files/TCPView.zip) 
