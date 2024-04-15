@@ -1,0 +1,5 @@
+- 开发：[GlassWire](https://www.glasswire.com/)
+- 评价：⭐⭐⭐⭐⭐
+- 说明：一款集实时网络流量监控、应用程序活动跟踪和网络安全防护于一体的强大工具，帮助用户全面了解和管理计算机的网络行为，确保网络安全。
+- 官网：[官方网站](https://www.glasswire.com/download/)
+- 下载：[官网下载](https://download.glasswire.com/GlassWireSetup.exe?v=3.3.664)
