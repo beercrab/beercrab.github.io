@@ -1,0 +1,5 @@
+- 开发：[微软](https://www.microsoft.com/zh-cn/)
+- 评价：⭐⭐⭐⭐⭐
+- 说明：一款免费开源的文本编辑器，支持多种编程语言，具有语法高亮、自动完成等功能，同时提供书签、文件对比编辑等实用工具，方便用户高效编辑文本内容。
+- 官网：[官方网站](https://code.visualstudio.com/Download)
+- 下载：官方下载 [用户环境安装](https://vscode.download.prss.microsoft.com/dbazure/download/stable/e170252f762678dec6ca2cc69aba1570769a5d39/VSCodeUserSetup-x64-1.88.1.exe) | [系统环境安装](https://vscode.download.prss.microsoft.com/dbazure/download/stable/e170252f762678dec6ca2cc69aba1570769a5d39/VSCodeSetup-x64-1.88.1.exe) | [免安装版本](https://vscode.download.prss.microsoft.com/dbazure/download/stable/e170252f762678dec6ca2cc69aba1570769a5d39/VSCode-win32-x64-1.88.1.zip)
