@@ -1,5 +1,0 @@
-- 开发：[Recuva](https://www.ccleaner.com/zh-cn)
-- 评价：⭐⭐⭐⭐⭐
-- 说明：一款功能强大的数据恢复软件，能够高效恢复被误删除的文件，支持多种存储设备和文件系统，操作简单快捷。。
-- 官网：[官方网站](https://www.ccleaner.com/zh-cn/recuva/download)
-- 下载：[官网下载](https://download.ccleaner.com/rcsetup153.exe) 
