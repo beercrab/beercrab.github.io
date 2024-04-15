@@ -1,0 +1,5 @@
+- 开发：[WireShark开发团队](https://www.wireshark.org/about.html#authors)
+- 评价：⭐⭐⭐⭐⭐
+- 说明：一款强大的网络封包分析软件，能够捕获并详细解析网络流量数据，帮助用户深入了解网络通信过程，适用于故障排查、性能优化和安全分析等多种场景。
+- 官网：[官方网站](https://www.wireshark.org/)
+- 下载：官网下载 [标准版](https://2.na.dl.wireshark.org/win64/Wireshark-4.2.4-x64.exe) | [便携版](https://2.na.dl.wireshark.org/win64/WiresharkPortable64_4.2.4.paf.exe)
