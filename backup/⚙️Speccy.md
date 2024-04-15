@@ -1,4 +1,4 @@
-- 开发：[Speccy](https://www.cpuid.com/softwares/cpu-z.html)
+- 开发：[Speccy](https://www.ccleaner.com/zh-cn)
 - 评价：⭐⭐⭐⭐⭐
 - 说明：一款功能全面的系统信息工具，可详细显示PC电脑硬件的详细信息，帮助用户全面了解并管理计算机硬件。
 - 官网：[官方网站](https://www.ccleaner.com/zh-cn/speccy?cjdata=MXxOfDB8WXww&source=CgcOAwoDBw0&utm_source=cj-15539495&utm_medium=referral&utm_campaign=27+Kilobyte+AB&utm_content=3480832&utm_term=2708051&cjevent=fa766eb2facf11ee8308ea1b0a18ba74&x-origin=9&x-cjevent=fa766eb2facf11ee8308ea1b0a18ba74&tracking=cj&trafficSource=affiliate&partnerid=3480832&programtype=CJ&clickID=fa766eb2facf11ee8308ea1b0a18ba74&cjid=3480832)
