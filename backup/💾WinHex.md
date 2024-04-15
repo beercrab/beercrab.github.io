@@ -1,0 +1,5 @@
+- 开发：[x-ways](https://www.x-ways.net/)
+- 评价：⭐⭐⭐⭐⭐
+- 说明：一款功能强大的十六进制编辑器和磁盘编辑器，可用于数据恢复、数据分析和磁盘编辑，适用于各种计算机安全领域的任务
+- 官网：[官方网站](https://www.x-ways.net/winhex/)
+- 下载：[官网下载](https://www.x-ways.net/winhex.zip) 
