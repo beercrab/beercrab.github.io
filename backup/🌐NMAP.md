@@ -1,0 +1,5 @@
+- 开发：[Gordon Lyon](https://insecure.org/fyodor/)
+- 评价：⭐⭐⭐⭐⭐
+- 说明：一款功能强大的网络探测和安全审核工具，可以扫描网络主机，检测开放端口、服务及操作系统等信息，助力网络管理员和渗透测试人员评估网络安全性
+- 官网：[官方网站](https://nmap.org/download.html#windows)
+- 下载：[官方下载](https://nmap.org/dist/nmap-7.94-setup.exe)
