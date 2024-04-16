@@ -1,5 +1,0 @@
-- 开发：[WiseCleaner](https://www.wisecleaner.com.cn/)
-- 评价：⭐⭐⭐⭐⭐
-- 说明：一款功能强大的程序卸载工具，能够彻底卸载不需要的软件，包括清理注册表和残留文件，确保系统干净、整洁。
-- 官网：[官方网站](https://www.wisecleaner.com.cn/)
-- 下载：[官网下载](https://downloads.wisecleaner.com/soft/WPUSetup_3.1.9.263.exe) | [蓝奏云](https://wisecleaner.lanzouu.com/itxD11qaojef) | [免安装版](https://downloads.wisecleaner.com/soft/WPU_3.1.9.263.zip)
