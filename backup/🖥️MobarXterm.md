@@ -1,0 +1,5 @@
+- 开发：[Mobatek](https://www.mobatek.net/aboutus.html)
+- 评价：⭐⭐⭐⭐⭐
+- 说明：一款功能强大的多功能远程计算机管理软件，集成了SSH、Telnet、RDP、VNC等多种协议，支持X11服务器和X11转发，提供丰富的终端命令行工具和插件，适用于Windows、Linux和Mac OS X等多个操作系统，方便用户进行远程管理和开发
+- 官网：[官方网站](https://mobaxterm.mobatek.net/)
+- 下载：官网下载 [标准版](https://download.mobatek.net/2402024022512842/MobaXterm_Installer_v24.0.zip) | [便携版](https://download.mobatek.net/2402024022512842/MobaXterm_Portable_v24.0.zip)
