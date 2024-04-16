@@ -1,5 +1,0 @@
-- 开发：[Dism++](https://github.com/Chuyu-Team)
-- 评价：⭐⭐⭐⭐⭐
-- 说明：一款功能强大的Windows系统管理和优化工具，支持软件管理、Windows组件管理、驱动程序管理等多项功能，可帮助用户轻松维护系统稳定性和性能。
-- 官网：[官方网站](https://github.com/Chuyu-Team/Dism-Multi-language/releases)
-- 下载：[官网下载](https://github.com/Chuyu-Team/Dism-Multi-language/releases/download/v10.1.1002.2/Dism++10.1.1002.1B.zip) 
