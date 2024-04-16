@@ -1,0 +1,5 @@
+- 开发：[WiseCleaner](https://www.wisecleaner.com.cn/)
+- 评价：⭐⭐⭐⭐⭐
+- 说明：一款全面而高效的PC加速和优化软件，能够实时保护系统、清理垃圾文件、优化注册表和磁盘碎片，提升电脑性能，同时提供隐私保护和数据恢复功能。
+- 官网：[官方网站](https://www.wisecleaner.com.cn/)
+- 下载：[官网下载](https://downloads.wisecleaner.com/soft/WiseCare365_CN_6.6.6.636.exe) | [蓝奏云](https://wisecleaner.lanzouu.com/ickSh1s3u1la) | [免安装版](https://downloads.wisecleaner.com/soft/WiseCare365_6.6.6.636.zip)
