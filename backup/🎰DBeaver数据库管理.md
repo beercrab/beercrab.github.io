@@ -1,0 +1,5 @@
+- 开发：[DBeaver Corp](https://github.com/dbeaver)
+- 评价：⭐⭐⭐⭐⭐
+- 说明：个功能强大的通用数据库管理工具，支持多种数据库，并提供丰富的数据库操作和管理功能，同时其跨平台特性和易用性使得它成为开发者和数据库管理员的首选工具。
+- 官网：[官方网站](https://dbeaver.io/)
+- 下载：官网下载 [exe格式](https://dbeaver.io/files/dbeaver-ce-latest-x86_64-setup.exe) | [zip格式](https://dbeaver.io/files/dbeaver-ce-latest-win32.win32.x86_64.zip)
