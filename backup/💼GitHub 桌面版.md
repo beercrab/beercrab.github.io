@@ -1,0 +1,5 @@
+- 开发：[GitHub 组织](https://desktop.github.com/)
+- 评价：⭐⭐⭐⭐⭐
+- 说明：一款适用于Windows图形化Git客户端，它让用户在不使用命令行的情况下也能轻松进行Git操作，如克隆仓库、提交更改等，同时支持与GitHub网站的无缝集成。
+- 官网：[官方网站](https://desktop.github.com/)
+- 下载：官网下载 [exe格式](https://central.github.com/deployments/desktop/desktop/latest/win32) | [msi格式](https://central.github.com/deployments/desktop/desktop/latest/win32?format=msi)
