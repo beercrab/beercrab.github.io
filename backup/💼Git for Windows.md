@@ -1,0 +1,5 @@
+- 开发：[Git for Windows开发团队](https://github.com/git-for-windows)
+- 评价：⭐⭐⭐⭐⭐
+- 说明：一款在Windows平台上运行的分布式版本控制系统，帮助用户轻松管理代码变更历史、协同工作和追踪项目进展。
+- 官网：[官方网站](https://gitforwindows.org/)
+- 下载：[官网下载](https://github.com/git-for-windows/git/releases/download/v2.44.0.windows.1/Git-2.44.0-64-bit.exe) 
