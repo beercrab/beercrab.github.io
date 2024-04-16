@@ -1,0 +1,5 @@
+- 开发：[PuTTY开发团队](https://www.chiark.greenend.org.uk/~sgtatham/putty/team.html)
+- 评价：⭐⭐⭐⭐⭐
+- 说明：一个功能强大，支持Telnet、SSH、rlogin、Serial等协议终端连接软件，支持Windows、Unix及Mac等多种平台，提供安全、灵活、丰富的远程登录和文件传输功能。
+- 官网：[官方网站](https://www.putty.org/)
+- 下载：官网下载 [64位](https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.81-installer.msi) | [32位](https://the.earth.li/~sgtatham/putty/latest/w32/putty-0.81-installer.msi)
