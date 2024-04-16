@@ -1,0 +1,5 @@
+- 开发：[WinSCP开发团队](https://github.com/winscp/winscp)
+- 评价：⭐⭐⭐⭐⭐
+- 说明：一款Windows环境下使用SSH的开源图形化SFTP客户端，支持SCP协议，主要用于在本地与远程计算机间安全地复制传输文件。
+- 官网：[官方网站](https://winscp.net/eng/index.php)
+- 下载：[官网下载](https://winscp.net/download/WinSCP-6.3.2-Setup.exe/download)
