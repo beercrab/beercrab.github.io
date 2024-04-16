@@ -1,4 +1,4 @@
-- 开发：[NETSARANG](https://www.xshell.com/zh/about-us/)
+- 开发：[NetSarang](https://www.xshell.com/zh/about-us/)
 - 评价：⭐⭐⭐⭐⭐
 - 说明：一款功能强大的终端模拟器，支持SSH、SFTP等多种协议，提供安全的远程连接与命令执行功能，适用于Windows平台，方便用户管理Unix或Linux服务器.
 - 官网：[官方网站](https://www.xshell.com/zh/free-for-home-school/)
